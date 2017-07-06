@@ -10,6 +10,6 @@ This was an effort to make a framework that can take in Input as Text, Speech or
 - Twilio
 - Flask
 - nltk
-adn more..
+and more..
 
 ### Made this in 2 days to win HuskyHACK 2017
